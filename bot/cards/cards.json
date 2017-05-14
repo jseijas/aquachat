@@ -1,0 +1,21 @@
+[
+  {
+    "name": "welcome",
+    "type": "text",
+    "text": "Hola {{ message.user.name }}! Soy Aquabot. Estoy aquí para ayudarte con tu consumo y factura del agua, avisarte de posibles incidencias o cortes en tu zona, cambios de tarifas y mucho más!"
+  },   
+  {
+    "name": "askQuestion",
+    "type": "text",
+    "text": "Tell me the new Question:",
+    "prompt": "text",
+    "variable": "dialog.question"
+  },
+  {
+    "name": "askAnswer",
+    "type": "text",
+    "text": "Tell me the answer to this question:",
+    "prompt": "text",
+    "variable": "dialog.answer"
+  }   
+]
