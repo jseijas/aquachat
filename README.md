@@ -12,7 +12,7 @@ El único coste es el de la licencia del motor de analíticas: Dashbot. Todo lo 
 
 La integración continua se realiza directamente con TravisCI y github, tan simple como hacer un push a github, y si pasa las reglas se despliega automáticamente.
 
-El bot está desarrollado usando la framework de bots flow-bot, open source y de cosecha propia, que encontraréis en: https://github.com/jseijas/flow-bot
+El bot está desarrollado usando la framework de bots flow-bot, open source, que encontraréis en: https://github.com/jseijas/flow-bot
 
 Para el bootstraping del bot se utilizó el generador de yeoman generator-flowbot, que encontraréis en: https://github.com/jseijas/generator-flowbot
 
@@ -61,6 +61,6 @@ npm install
 npm start
 ```
 ## Agentes de voz distintos de Cortana
-Para usar la aplicación en agentes de voz tales como Amazon Echo o Google Home, un poco de desarrollo adicional es necesario. En nuestro caso la implementación con Amazon Echo se hizo de manera separada siguiendo los pasos que expliqué durante el meetup "Hello Alexa": 
+Para usar la aplicación en agentes de voz tales como Amazon Echo o Google Home, un poco de desarrollo adicional es necesario. En nuestro caso la implementación con Amazon Echo se hizo de manera separada siguiendo los pasos del meetup "Hello Alexa": 
 https://github.com/jseijas/hello-alexa
 
