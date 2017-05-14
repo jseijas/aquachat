@@ -8,7 +8,7 @@ Además, está integrado con analíticas, y permite tener transcripciones en viv
 Coste de despliegue (servidor, base de datos, etc): 0€
 Costes de mantenimiento mensuales: 0€
 
-El único coste es el de la licencia del motor de analíticas: Dashbot. Todo lo demás incluyendo NLP (API.ai), servidor (Heroku), base de datos (AWS), conectores de canales (Microsoft) y base de conocimientos (Microsoft) son soluciones cloud gratuitas. 
+Todos los componentes usados son gratuitos: NLP (API.ai), servidor (Heroku), base de datos (AWS), conectores de canales (Microsoft), base de conocimientos (Microsoft) y analítica (Dashbot).
 
 La integración continua se realiza directamente con TravisCI y github, tan simple como hacer un push a github, y si pasa las reglas se despliega automáticamente.
 
