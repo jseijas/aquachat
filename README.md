@@ -35,7 +35,7 @@ No! Poniendo un texto aproximado trata de buscar la pregunta más aproximada, y 
 - Slack como una plataforma de comunicación con el usuario (usuario @aquachat en el slack de la hackathon)
 - Skype como una plataforma de comunicación con el usuario: https://join.skype.com/bot/8c02e9d9-406c-4fe5-9e64-7d99d5257db8
 - Telegram como una plataforma de comunicación con el usuario (usuario @aquabot_bot): https://telegram.me/aquabot_bot
-- Cortana como una plataforma de comunicación con el usuario (no publicada en el market de windows, así que contactar conmigo si se quiere probar).
+- Cortana como una plataforma de comunicación con el usuario (no publicada en el market de windows, así que contactar conmigo si se quiere probar). Ojo! Requiere una instalación de Windows 10 con región EEUU, con lenguaje inglés americano, y con las últimas actualizaciones de Windows 10 activadas.
 - Microsoft Teams como una plataforma de comunicación con el usuario (contactar conmigo si se quiere probar)
 - Plugin web: puedes probarlo en: https://aquachat.herokuapp.com/
 - Skype for business, bing, twitter, groupme, kik, sms, mail, LINE, WeChat, RTM o REST API (contactar conmigo si se quiere probar)
